@@ -1,5 +1,5 @@
 # get-last-git-tag
-Docker encapsulated npm package to retrieve latest git tag from current local git repo
+Docker encapsulated npm package to retrieve latest git tag from current local git repo. Using https://github.com/stevemao/git-latest-semver-tag
 
 # Howto use
 While being in a .git controlled directory:
